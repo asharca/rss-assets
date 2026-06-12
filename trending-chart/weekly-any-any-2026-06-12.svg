@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" font-family="system-ui,-apple-system,sans-serif">
+<rect width="800" height="620" fill="#ffffff" rx="8"/>
+<rect width="800" height="620" fill="none" stroke="#d0d7de" rx="8"/>
+<text x="20" y="28" font-size="14" font-weight="600" fill="#24292f">GitHub Trending · This week · All Languages</text>
+<text x="20" y="48" font-size="12" fill="#57606a">Jun 8 – Jun 14, 2026</text>
+<line x1="20" y1="56" x2="780" y2="56" stroke="#d0d7de" stroke-width="0.5"/>
+
+<text x="250" y="85" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">mvanhorn/last30days-skill</text>
+<rect x="270" y="72" width="450" height="16" fill="#2da44e" rx="3"/>
+<text x="780" y="85" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+12.4k</text>
+<text x="250" y="117" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">chopratejas/headroom</text>
+<rect x="270" y="104" width="409" height="16" fill="#3fb950" rx="3"/>
+<text x="780" y="117" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+11.3k</text>
+<text x="250" y="149" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">NousResearch/hermes-agent</text>
+<rect x="270" y="136" width="389" height="16" fill="#56d364" rx="3"/>
+<text x="780" y="149" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+10.7k</text>
+<text x="250" y="181" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Leonxlnx/taste-skill</text>
+<rect x="270" y="168" width="305" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="181" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+8.4k</text>
+<text x="250" y="213" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">microsoft/markitdown</text>
+<rect x="270" y="200" width="264" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="213" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+7.3k</text>
+<text x="250" y="245" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Panniantong/Agent-Reach</text>
+<rect x="270" y="232" width="188" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="245" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5.2k</text>
+<text x="250" y="277" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">lfnovo/open-notebook</text>
+<rect x="270" y="264" width="174" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="277" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.8k</text>
+<text x="250" y="309" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">santifer/career-ops</text>
+<rect x="270" y="296" width="149" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="309" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.1k</text>
+<text x="250" y="341" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">apple/container</text>
+<rect x="270" y="328" width="148" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="341" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.1k</text>
+<text x="250" y="373" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">phuryn/pm-skills</text>
+<rect x="270" y="360" width="145" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="373" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4k</text>
+<text x="250" y="405" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">CopilotKit/CopilotKit</text>
+<rect x="270" y="392" width="100" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="405" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.8k</text>
+<text x="250" y="437" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">aaif-goose/goose</text>
+<rect x="270" y="424" width="91" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="437" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.5k</text>
+<text x="250" y="469" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Open-LLM-VTuber/Open-LLM-VTub…</text>
+<rect x="270" y="456" width="61" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="469" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.7k</text>
+<text x="250" y="501" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">openai/plugins</text>
+<rect x="270" y="488" width="52" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="501" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.4k</text>
+<text x="250" y="533" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">NVIDIA/cosmos</text>
+<rect x="270" y="520" width="40" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="533" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.1k</text>
+<text x="250" y="565" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">revfactory/harness</text>
+<rect x="270" y="552" width="35" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="565" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+973</text>
+<text x="250" y="597" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">aquasecurity/trivy</text>
+<rect x="270" y="584" width="29" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="597" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+792</text>
+</svg>
