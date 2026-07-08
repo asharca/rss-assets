@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="812" font-family="system-ui,-apple-system,sans-serif">
+<rect width="800" height="812" fill="#ffffff" rx="8"/>
+<rect width="800" height="812" fill="none" stroke="#d0d7de" rx="8"/>
+<text x="20" y="28" font-size="14" font-weight="600" fill="#24292f">GitHub Trending · This week · All Languages</text>
+<text x="20" y="48" font-size="12" fill="#57606a">Jul 6 – Jul 12, 2026</text>
+<line x1="20" y1="56" x2="780" y2="56" stroke="#d0d7de" stroke-width="0.5"/>
+
+<text x="250" y="85" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">usestrix/strix</text>
+<rect x="270" y="72" width="450" height="16" fill="#2da44e" rx="3"/>
+<text x="780" y="85" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+10.7k</text>
+<text x="250" y="117" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">msitarzewski/agency-agents</text>
+<rect x="270" y="104" width="360" height="16" fill="#3fb950" rx="3"/>
+<text x="780" y="117" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+8.6k</text>
+<text x="250" y="149" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">JuliusBrussee/caveman</text>
+<rect x="270" y="136" width="338" height="16" fill="#56d364" rx="3"/>
+<text x="780" y="149" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+8.1k</text>
+<text x="250" y="181" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Zackriya-Solutions/meetily</text>
+<rect x="270" y="168" width="308" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="181" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+7.3k</text>
+<text x="250" y="213" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">DeusData/codebase-memory-mcp</text>
+<rect x="270" y="200" width="229" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="213" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5.5k</text>
+<text x="250" y="245" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">MadsLorentzen/ai-job-search</text>
+<rect x="270" y="232" width="225" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="245" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5.4k</text>
+<text x="250" y="277" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">asgeirtj/system_prompts_leaks</text>
+<rect x="270" y="264" width="224" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="277" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5.3k</text>
+<text x="250" y="309" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">hasaneyldrm/exercises-dataset</text>
+<rect x="270" y="296" width="207" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="309" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5k</text>
+<text x="250" y="341" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">diegosouzapw/OmniRoute</text>
+<rect x="270" y="328" width="201" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="341" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.8k</text>
+<text x="250" y="373" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">openai/codex-plugin-cc</text>
+<rect x="270" y="360" width="198" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="373" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.7k</text>
+<text x="250" y="405" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">ogulcancelik/herdr</text>
+<rect x="270" y="392" width="191" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="405" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.6k</text>
+<text x="250" y="437" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">xbtlin/ai-berkshire</text>
+<rect x="270" y="424" width="179" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="437" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.3k</text>
+<text x="250" y="469" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">alibaba/page-agent</text>
+<rect x="270" y="456" width="174" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="469" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.2k</text>
+<text x="250" y="501" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">stablyai/orca</text>
+<rect x="270" y="488" width="160" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="501" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+3.8k</text>
+<text x="250" y="533" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">browser-use/video-use</text>
+<rect x="270" y="520" width="144" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="533" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+3.4k</text>
+<text x="250" y="565" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">immich-app/immich</text>
+<rect x="270" y="552" width="83" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="565" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2k</text>
+<text x="250" y="597" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">altic-dev/FluidVoice</text>
+<rect x="270" y="584" width="78" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="597" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.9k</text>
+<text x="250" y="629" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">TencentCloud/CubeSandbox</text>
+<rect x="270" y="616" width="71" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="629" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.7k</text>
+<text x="250" y="661" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">ChromeDevTools/chrome-devtool…</text>
+<rect x="270" y="648" width="62" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="661" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.5k</text>
+<text x="250" y="693" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Robbyant/lingbot-map</text>
+<rect x="270" y="680" width="61" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="693" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.5k</text>
+<text x="250" y="725" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">allenai/olmocr</text>
+<rect x="270" y="712" width="48" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="725" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.1k</text>
+<text x="250" y="757" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">dotnet/skills</text>
+<rect x="270" y="744" width="29" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="757" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+687</text>
+<text x="250" y="789" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">huggingface/speech-to-speech</text>
+<rect x="270" y="776" width="27" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="789" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+645</text>
+</svg>
