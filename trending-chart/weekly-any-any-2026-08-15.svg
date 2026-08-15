@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="588" font-family="system-ui,-apple-system,sans-serif">
+<rect width="800" height="588" fill="#ffffff" rx="8"/>
+<rect width="800" height="588" fill="none" stroke="#d0d7de" rx="8"/>
+<text x="20" y="28" font-size="14" font-weight="600" fill="#24292f">GitHub Trending · This week · All Languages</text>
+<text x="20" y="48" font-size="12" fill="#57606a">Aug 10 – Aug 16, 2026</text>
+<line x1="20" y1="56" x2="780" y2="56" stroke="#d0d7de" stroke-width="0.5"/>
+
+<text x="250" y="85" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">PrimeIntellect-ai/prime-agent</text>
+<rect x="270" y="72" width="450" height="16" fill="#2da44e" rx="3"/>
+<text x="780" y="85" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+10.7k</text>
+<text x="250" y="117" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">semantica-agi/semantica</text>
+<rect x="270" y="104" width="215" height="16" fill="#3fb950" rx="3"/>
+<text x="780" y="117" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5.1k</text>
+<text x="250" y="149" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">TencentCloud/TencentDB-Agent-…</text>
+<rect x="270" y="136" width="185" height="16" fill="#56d364" rx="3"/>
+<text x="780" y="149" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.4k</text>
+<text x="250" y="181" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">addyosmani/agent-skills</text>
+<rect x="270" y="168" width="161" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="181" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+3.8k</text>
+<text x="250" y="213" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">cloudflare/computer</text>
+<rect x="270" y="200" width="120" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="213" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.9k</text>
+<text x="250" y="245" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">google/skills</text>
+<rect x="270" y="232" width="92" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="245" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.2k</text>
+<text x="250" y="277" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">TapXWorld/ChinaTextbook</text>
+<rect x="270" y="264" width="84" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="277" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2k</text>
+<text x="250" y="309" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">cactus-compute/needle</text>
+<rect x="270" y="296" width="81" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="309" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.9k</text>
+<text x="250" y="341" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">3b1b/manim</text>
+<rect x="270" y="328" width="80" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="341" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.9k</text>
+<text x="250" y="373" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">vitali87/code-graph-rag</text>
+<rect x="270" y="360" width="72" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="373" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.7k</text>
+<text x="250" y="405" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">pingdotgg/t3code</text>
+<rect x="270" y="392" width="67" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="405" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.6k</text>
+<text x="250" y="437" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">denoland/celld</text>
+<rect x="270" y="424" width="65" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="437" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.5k</text>
+<text x="250" y="469" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">huangruiteng/loopx</text>
+<rect x="270" y="456" width="61" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="469" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.5k</text>
+<text x="250" y="501" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">NVIDIA-NeMo/Switchyard</text>
+<rect x="270" y="488" width="50" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="501" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.2k</text>
+<text x="250" y="533" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">LadybirdBrowser/ladybird</text>
+<rect x="270" y="520" width="34" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="533" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+819</text>
+<text x="250" y="565" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">megadose/holehe</text>
+<rect x="270" y="552" width="28" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="565" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+671</text>
+</svg>
