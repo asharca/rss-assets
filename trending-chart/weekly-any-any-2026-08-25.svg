@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="524" font-family="system-ui,-apple-system,sans-serif">
+<rect width="800" height="524" fill="#ffffff" rx="8"/>
+<rect width="800" height="524" fill="none" stroke="#d0d7de" rx="8"/>
+<text x="20" y="28" font-size="14" font-weight="600" fill="#24292f">GitHub Trending · This week · All Languages</text>
+<text x="20" y="48" font-size="12" fill="#57606a">Aug 24 – Aug 30, 2026</text>
+<line x1="20" y1="56" x2="780" y2="56" stroke="#d0d7de" stroke-width="0.5"/>
+
+<text x="250" y="85" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">harry0703/MoneyPrinterTurbo</text>
+<rect x="270" y="72" width="450" height="16" fill="#2da44e" rx="3"/>
+<text x="780" y="85" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+10.6k</text>
+<text x="250" y="117" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">public-apis/public-apis</text>
+<rect x="270" y="104" width="299" height="16" fill="#3fb950" rx="3"/>
+<text x="780" y="117" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+7.1k</text>
+<text x="250" y="149" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">AprilNEA/OpenLogi</text>
+<rect x="270" y="136" width="297" height="16" fill="#56d364" rx="3"/>
+<text x="780" y="149" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+7k</text>
+<text x="250" y="181" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">volcengine/OpenViking</text>
+<rect x="270" y="168" width="171" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="181" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4k</text>
+<text x="250" y="213" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">basecamp/omarchy</text>
+<rect x="270" y="200" width="166" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="213" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+3.9k</text>
+<text x="250" y="245" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">akitaonrails/ai-memory</text>
+<rect x="270" y="232" width="107" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="245" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.5k</text>
+<text x="250" y="277" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">modular/modular</text>
+<rect x="270" y="264" width="97" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="277" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.3k</text>
+<text x="250" y="309" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">cordiverse/cordis</text>
+<rect x="270" y="296" width="83" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="309" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2k</text>
+<text x="250" y="341" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">cursor/plugins</text>
+<rect x="270" y="328" width="77" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="341" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.8k</text>
+<text x="250" y="373" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">jundot/omlx</text>
+<rect x="270" y="360" width="71" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="373" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.7k</text>
+<text x="250" y="405" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">apache/maka</text>
+<rect x="270" y="392" width="55" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="405" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.3k</text>
+<text x="250" y="437" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Tencent/AI-Infra-Guard</text>
+<rect x="270" y="424" width="51" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="437" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.2k</text>
+<text x="250" y="469" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">anthropics/claude-plugins-com…</text>
+<rect x="270" y="456" width="37" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="469" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+877</text>
+<text x="250" y="501" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">eneskirca/nodeterm</text>
+<rect x="270" y="488" width="22" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="501" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+529</text>
+</svg>
