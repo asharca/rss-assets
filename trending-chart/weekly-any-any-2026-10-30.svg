@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="460" font-family="system-ui,-apple-system,sans-serif">
+<rect width="800" height="460" fill="#ffffff" rx="8"/>
+<rect width="800" height="460" fill="none" stroke="#d0d7de" rx="8"/>
+<text x="20" y="28" font-size="14" font-weight="600" fill="#24292f">GitHub Trending · This week · All Languages</text>
+<text x="20" y="48" font-size="12" fill="#57606a">Oct 26 – Nov 1, 2026</text>
+<line x1="20" y1="56" x2="780" y2="56" stroke="#d0d7de" stroke-width="0.5"/>
+
+<text x="250" y="85" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">cloudflare/security-audit-ski…</text>
+<rect x="270" y="72" width="450" height="16" fill="#2da44e" rx="3"/>
+<text x="780" y="85" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+14.3k</text>
+<text x="250" y="117" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">pbakaus/impeccable</text>
+<rect x="270" y="104" width="305" height="16" fill="#3fb950" rx="3"/>
+<text x="780" y="117" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+9.7k</text>
+<text x="250" y="149" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">TauricResearch/TradingAgents</text>
+<rect x="270" y="136" width="175" height="16" fill="#56d364" rx="3"/>
+<text x="780" y="149" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5.6k</text>
+<text x="250" y="181" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">hugohe3/ppt-master</text>
+<rect x="270" y="168" width="156" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="181" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+5k</text>
+<text x="250" y="213" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">obra/superpowers</text>
+<rect x="270" y="200" width="154" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="213" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.9k</text>
+<text x="250" y="245" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">Leonxlnx/taste-skill</text>
+<rect x="270" y="232" width="137" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="245" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.4k</text>
+<text x="250" y="277" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">multica-ai/andrej-karpathy-sk…</text>
+<rect x="270" y="264" width="134" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="277" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.3k</text>
+<text x="250" y="309" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">AgriciDaniel/claude-seo</text>
+<rect x="270" y="296" width="129" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="309" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+4.1k</text>
+<text x="250" y="341" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">anthropics/knowledge-work-plu…</text>
+<rect x="270" y="328" width="79" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="341" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+2.5k</text>
+<text x="250" y="373" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">ruvnet/ruflo</text>
+<rect x="270" y="360" width="58" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="373" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+1.9k</text>
+<text x="250" y="405" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">jakubkrehel/skills</text>
+<rect x="270" y="392" width="31" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="405" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+980</text>
+<text x="250" y="437" text-anchor="end" fill="#24292f" font-size="13" font-weight="500">php/php-src</text>
+<rect x="270" y="424" width="30" height="16" fill="#8ac8a0" rx="3"/>
+<text x="780" y="437" text-anchor="end" fill="#1a7f37" font-size="12" font-weight="600">+960</text>
+</svg>
